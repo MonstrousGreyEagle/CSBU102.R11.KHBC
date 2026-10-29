@@ -5,11 +5,7 @@ main:
 	add $s1,$zero,5
 	add $s2,$zero,3
 	
-	add $t0,$s0,$s1
-
-sub $t3,$zero,$s0
-
-add $t3,$t3,$s1
+	add $t2,$zero,$s0
 	
 	li $v0,10
 	syscall
