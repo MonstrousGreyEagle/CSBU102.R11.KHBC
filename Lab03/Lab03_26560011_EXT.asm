@@ -1,5 +1,3 @@
-# Trần Hữu Đạt - 26560011
-# Extension: return the minimum and maximum score for each class.
 .data
 classA: .word 72, 55, 90, 48, 63, 85, 39, 77, 60, 94
 classB: .word 45, 81, 66, 50, 92, 38, 70, 59
